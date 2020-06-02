@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+.PickerContainer {
+  margin: 300px auto;
+  text-align: center;
+  font-family: 'Audiowide', cursive;
+}
+span {
+  font-size: 50px;
+  padding : 2%;
+}
+.ColorGradient {
+  width: 250px;
+  height: 80px;
+}
+.ColorValue {
+  width: 250px;
+  height: 65px;
+  text-align: center;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 45px;
+}
